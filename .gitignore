@@ -1,0 +1,16 @@
+bin
+obj
+*.suo
+/src/Bioharmonex4Manager/lang
+/src/Bioharmonex4Manager/packages
+/src/Bioharmonex4Manager/vocabulary.dat
+
+src/Bioharmonex4Manager/Bioharmonex4Manager.sln.DotSettings.user
+/src/Bioharmonex4Manager/Bioharmonex4Manager/publish
+/src/Bioharmonex4KeyGenerator/Bioharmonex4KeyGenerator/packages
+/src/Bioramonex4ActivationCodeGenerator/packages
+/src/Bioharmonex4Client/packages
+packages
+/src/Bioharmonex4Client/Bioharmonex4Client/publish
+/src/Bioramonex4ActivationCodeGenerator/Bioramonex4ActivationCodeGenerator/publish
+.vs
